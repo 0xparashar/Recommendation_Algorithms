@@ -1,5 +1,5 @@
 
-//Collabrative filtering
+#Collabrative filtering with K Nearest Neighbours Technique
 
 import pandas as pd
 import numpy as np
